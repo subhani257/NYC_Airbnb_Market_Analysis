@@ -1,0 +1,12 @@
+Data/Raw/calendar.csv
+Data/Raw/reviews2.csv
+Data/Raw/listings2.csv
+Data/interim/*.parquet
+Data/processed/*.parquet
+Data/airbnb_warehouse.duckdb
+Data/airbnb_warehouse.duckdb.wal
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

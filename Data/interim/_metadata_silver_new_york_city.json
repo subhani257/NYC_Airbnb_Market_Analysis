@@ -1,0 +1,27 @@
+{
+  "city": "new_york_city",
+  "stage": "silver",
+  "run_timestamp": "2026-07-11T11:38:05.657222",
+  "tables": {
+    "listings": {
+      "rows": 30259,
+      "columns": 80,
+      "path": "..\\data\\interim\\listings_silver.parquet"
+    },
+    "calendar": {
+      "rows": 11152576,
+      "columns": 5,
+      "path": "..\\data\\interim\\calendar_silver.parquet"
+    },
+    "reviews": {
+      "rows": 990170,
+      "columns": 6,
+      "path": "..\\data\\interim\\reviews_silver.parquet"
+    },
+    "neighbourhoods": {
+      "rows": 230,
+      "columns": 2,
+      "path": "..\\data\\interim\\neighbourhoods_silver.parquet"
+    }
+  }
+}
